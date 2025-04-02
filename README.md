@@ -1,6 +1,62 @@
 # Titulo
 Este documento describe los pasos para **incrustar** o **vincular** datos de una **Hoja de Cálculo de Google** dentro de un **Documento de Google**.
 
+
+# Guía de Usuario
+
+1. [Introducción](#introduccion)
+2. [Instalación](#instalacion)
+3. [Uso básico](#uso-basico)
+
+## Introducción
+
+
+
+
+
+
+
+
+
+
+
+
+Aquí describimos la introducción.
+
+## Instalación
+
+
+
+
+
+
+
+
+
+
+
+
+Pasos para la instalación.
+
+## Uso básico 
+
+
+
+
+
+
+
+
+
+Explicación del uso básico.
+
+
+
+
+
+
+
+
 ## Subtitulo 1
 1. Abre tu **Documento de Google**.
 2. Ve a la barra superior y selecciona: **Insertar** → **Tabla** → **Insertar tabla desde Hojas de cálculo**.
@@ -9,8 +65,10 @@ Este documento describe los pasos para **incrustar** o **vincular** datos de una
 5. Elige si deseas **vincular** la tabla a la hoja de cálculo.  
    - **Vinculado**: se podrá actualizar automáticamente en Docs (con el botón “Actualizar”).  
    - **No vinculado**: la tabla será estática (no refleja cambios posteriores).
-## Subtitulo 2
 
+
+
+## Código
 ```javascript
 function calcularPromedio(numeros) {
   let total = 0;
