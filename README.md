@@ -4,9 +4,9 @@ Este documento describe los pasos para **incrustar** o **vincular** datos de una
 
 # Guía de Usuario
 
-1. [Introducción](#introduccion)
-2. [Instalación](#instalacion)
-3. [Uso básico](#uso-basico)
+1. [Introducción](#introducción)
+2. [Instalación](#instalación)
+3. [Uso básico](#uso-básico)
 
 ## Introducción
 
